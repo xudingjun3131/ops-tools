@@ -39,3 +39,9 @@
   - [tensorflow-serving](https://github.com/tensorflow/serving) v1.14.0
   - [tensorflow-notebook](https://github.com/tensorflow/tensorflow) v1.6.0
   - [weave-scope](https://github.com/weaveworks/scope) v1.12.0
+
+- 飞致云
+  - [metersphere](https://github.com/metersphere/metersphere/) v1.11.3
+  - [kubeoperator](https://github.com/kubeoperator/kubeoperator/) v3.10.1
+  - [dataease](https://github.com/dataease/dataease) v1.1.0
+  - [jumpserver](https://github.com/jumpserver/jumpserver/) v1.1.0
